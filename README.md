@@ -29,7 +29,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ---
 
@@ -46,18 +46,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=patricealan&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
----
-
-### 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/peck-patrice-alan" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="mailto:peckpatricealan@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
-  </a>
 
 </p>
 
