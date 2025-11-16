@@ -4,7 +4,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 - 🔭 I’m currently working on projects involving **Angular**, **Spring Boot**, and **Docker**  
 - 🌱 I’m exploring **cloud architectures** and **DevOps practices**  
