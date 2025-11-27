@@ -6,7 +6,7 @@
 
 ### About Me
 
-- 🔭 I’m currently working on projects involving **Angular**, **Spring Boot**, and **Docker**  
+- 🔭 I’m currently working on projects involving **Angular**, **Django**, and **Docker**  
 - 🌱 I’m exploring **cloud architectures** and **DevOps practices**  
 - 💬 Ask me about **web development**, **API design**, or **software architecture**  
 - ⚡ Cool fact: I like playing chess a lot  ♟️ 
