@@ -5,6 +5,7 @@
 ---
 
 ### About Me
+---
 
 - 🔭 I’m currently working on projects involving **Angular**, **Django**, and **Docker**  
 - 🌱 I’m exploring **cloud architectures** and **DevOps practices**  
