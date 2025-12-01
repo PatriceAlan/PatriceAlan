@@ -14,7 +14,7 @@
 
 ---
 
-### 🧰 Languages & Tools
+
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
@@ -34,15 +34,12 @@
 
 ---
 
-### 📊 GitHub Stats....
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patricealan&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patricealan&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<h2 align="center">📊 GitHub Stats</h2>
+
+
+[![Patrice's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PatriceAlan&theme=react&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 </p>
 
