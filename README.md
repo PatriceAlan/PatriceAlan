@@ -6,12 +6,12 @@
 
 
 <h2 align="center">About Me</h2>
-
-
-- 🔭 I’m currently working on projects involving **Angular**, **Django**, and **Docker**  
-- 🌱 I’m exploring **cloud architectures** and **DevOps practices**  
-- 💬 Ask me about **web development**, **API design**, or **software architecture**  
-- ⚡ Cool fact: I like playing chess a lot  ♟️ 
+<ul>
+    <li>🔭 I’m currently working on projects involving Angular, Django, and Docker</li>
+    <li>🌱 I’m exploring cloud architectures and DevOps practices</li>
+    <li>💬 Ask me about web development, API design, or software architecture </li>
+    <li>⚡ Cool fact: I like playing chess a lot  ♟️ </li>
+</ul>
 
 ---
 
