@@ -4,7 +4,8 @@
 
 ---
 
-### About Me
+
+<h2 align="center">About Me</h2>
 
 
 - 🔭 I’m currently working on projects involving **Angular**, **Django**, and **Docker**  
