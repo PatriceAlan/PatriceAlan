@@ -16,7 +16,7 @@
 ---
 
 <h2 align="center">🧰 Languages & Tools</h2>
-
+---
 <table align="center" width="100%">
 <tr>
     <td align='center' height="100">
